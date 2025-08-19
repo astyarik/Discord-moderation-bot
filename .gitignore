@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Local environment
+.env
+
+# Data
+/data/*.json
+/data/*.txt
