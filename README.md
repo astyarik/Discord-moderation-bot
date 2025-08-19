@@ -1,5 +1,7 @@
 # Discord-moderation-bot
 
+Токен устанавливается в .env
+
 Бот модерации Discord с командами: warn, unwarn, mute, unmute, ban, unban. Сохраняет предупреждения в `data/warnings.json`, пишет логи в `data/logs.txt`. Включены авто-наказания: 3 предупреждения → мут на 10 минут; 5 предупреждения → бан.
 
 ## Установка
